@@ -14779,7 +14779,6 @@ MonoBehaviour:
   m_Scale3D: {x: 100, y: 100, z: 100}
   m_AnimatableProperties: []
   m_Particles:
-  - {fileID: 8101252891018337467}
   - {fileID: 4884262769291894503}
   - {fileID: 2831658925917638728}
   - {fileID: 2856970169634288719}

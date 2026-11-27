@@ -14745,7 +14745,6 @@ MonoBehaviour:
   m_Particles:
   - {fileID: 8801266702427031611}
   - {fileID: 292295387742252152}
-  - {fileID: 0}
   - {fileID: 7464773543639244859}
   m_MeshSharing: 0
   m_GroupId: 0
